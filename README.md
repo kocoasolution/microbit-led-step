@@ -3,7 +3,7 @@
 
 ## 확장으로 사용
 
-이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다.
+이 저장소는 MakeCode에서 **확장**으로 추가될 수 있습니다
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) 열기
 * **새로운 프로젝트**에서 클릭
